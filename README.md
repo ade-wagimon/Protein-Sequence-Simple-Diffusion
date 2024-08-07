@@ -38,12 +38,12 @@ Replace `script_name.py` with the name of your script file.
 ```
 .
 ├── Align45.fasta
-├── script_name.py
+├── main.py
 └── README.md
 ```
 
 - `Align45.fasta`: Your protein sequence alignment file.
-- `script_name.py`: The main script for data preparation, model training, evaluation, and sequence generation.
+- `main.py`: The main script for data preparation, model training, evaluation, and sequence generation.
 - `README.md`: This file.
 
 ## Data Preparation
